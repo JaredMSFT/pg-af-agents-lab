@@ -53,7 +53,7 @@ This lab guides you through developing an agent-driven, Retrieval-Augmented Gene
 - Python environment with necessary libraries:
   - PostgreSQL connectivity (`psycopg`, `psycopg-binary`, `psycopg-pool`)
   - Modeling and validation (`pydantic`)
-  - OpenAI and Microsoft Agent Framework integration (`openai`, `semantic-kernel`)
+  - OpenAI and Microsoft Agent Framework integration (`openai`, `agent-framework`)
   - Notebook compatibility (`nest_asyncio`, `ipykernel`)
 
 ## Lab Sections

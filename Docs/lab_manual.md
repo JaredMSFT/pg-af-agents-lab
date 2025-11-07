@@ -6,7 +6,10 @@ You will gain hands-on experience in building an agent-based app using Azure Dat
 
 You can take a look at the application's architecture in the following diagram:
 
-[TODO](architecture_diagram.png).
+## Agentic App Architecture
+#### The App we are going to build today
+
+![Architecture](../Docs/images/arch.png).
 
 In Part 1, we will set up and populate the data in the database, as well as the Azure AI extension, and test the tools that we will use. Part 2 explores how to perform text searches using pattern matching, and demonstrates in practice how this can be significantly improved by relying on semantic vector search and vector indexes. In Part 3, we delve deeply into creating an agent that uses the GraphRAG pattern, a technique designed to improve the quality of results by extracting knowledge graph information from our data. Let's get started!
 
