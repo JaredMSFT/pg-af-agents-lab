@@ -2,7 +2,8 @@
 
 This lab guides you through developing an agent-driven, Retrieval-Augmented Generation (RAG) application that explores U.S. Case Law data. You'll learn how to combine PostgreSQL's powerful database capabilities with AI techniques to create a legal research assistant capable of providing accurate and contextually relevant answers.
 
-## Architecture
+## Agentic App Architecture
+#### The App we are going to build today
 
 ![Architecture](./Docs/images/arch.png)
 
